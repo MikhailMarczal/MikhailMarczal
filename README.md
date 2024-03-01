@@ -1,10 +1,9 @@
 # Introduction
 
-Hello, I'm <strong>Mikhail Wöhl Marczal</strong>. I am a junior Front-End developer, actually working with React.JS.
+Hello, I'm <strong>Mikhail Wöhl Marczal</strong>. I am a junior Front-End developer, actually working with React and Next.JS.
 
-As a front-end developer I've knowledge about fetching API with axios and graphql, design patterns, UI and UX, and some more.
+As a front-end developer, i already have knowledge about fetching API (axios, tanstack-query, graphql), typescript, design patterns, UI and UX, and some more.
 
-Please contact me if you're interested.
 
 # How to Reach me:
 [![Linkedin: Mikhail Wöhl Marczal](https://img.shields.io/badge/-MikhailMarczal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-marczal/)](https://www.linkedin.com/in/mikhail-marczal/)
