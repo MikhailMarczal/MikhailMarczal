@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, I'm <strong>Mikhail Wöhl Marczal</strong>. I am a junior Front-End developer, actually working with React and Next.JS.
+Hello, I'm <strong>Mikhail Wöhl Marczal</strong>. I am a Front-End developer, actually working with React, Next.JS and React Native.
 
 As a front-end developer, i already have knowledge about fetching API (axios, tanstack-query, graphql), typescript, design patterns, UI and UX, and some more.
 
